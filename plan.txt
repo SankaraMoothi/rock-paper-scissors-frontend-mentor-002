@@ -1,0 +1,8 @@
+1.create the boxes for how it looks like
+2.create the header
+3.create the Rock,paper,Scissor buttons
+4.create the wiew the context
+4 create an onclick event for the rock paper Scissor
+5.when click thr button,we need to hide the button and who the actuall winner
+6.figure out what the computer is going to pick
+7.compare results and figure out who wins
